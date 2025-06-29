@@ -79,7 +79,7 @@ You can run this project easily on your local system. Just follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```bash
-https://github.com/Sravanthi-17/hematovision-advanced-blood-cell-classification-using-transfer-learning-.git
+git clone:https://github.com/Sravanthi-17/hematovision-advanced-blood-cell-classification-using-transfer-learning-.git
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but recommended)
